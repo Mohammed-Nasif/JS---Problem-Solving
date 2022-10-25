@@ -19,7 +19,7 @@ var deleteDuplicates = function(head) {
                        delete(current.next);
                        current.next = temp;
                    }else{
-                       current =current.next;
+                       current = current.next;
                    }
               }
     return head;
