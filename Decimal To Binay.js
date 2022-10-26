@@ -40,10 +40,6 @@ console.log(decToBinary(10));
 
 
 
-
-
-
-
 // 2nd Method: Using ToString Method
 function decToBinary(decNum){
     return (decNum).toString(2);
