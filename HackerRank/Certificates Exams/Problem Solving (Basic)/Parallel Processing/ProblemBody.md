@@ -1,1 +1,0 @@
-![ProblemBody](ParallelProcessing.png)
