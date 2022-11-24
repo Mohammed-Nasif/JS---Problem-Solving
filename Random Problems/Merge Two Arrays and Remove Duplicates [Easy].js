@@ -1,5 +1,3 @@
-// Not LeetCode Problem
-
 /*
 [1,2,4,5][4,5,9,3] output [1,2,4,5,9,3]
 */

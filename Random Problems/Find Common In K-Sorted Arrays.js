@@ -1,6 +1,3 @@
-// Not LeetCode Problem
-
-
 /*
 Find common elements in  k-sorted arrays [[1 ,2 ,3 ],[1 ,2 ,3 ,4 ],[1 ,2 ]] The answers is [1,2]
 */

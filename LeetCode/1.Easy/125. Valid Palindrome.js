@@ -8,8 +8,10 @@
   const filteredArrayReversed = [...filteredArray].reverse();
     return filteredArray.join("") === filteredArrayReversed.join("") ? true: false;
 
+
+
 // 2nd Method: [Two Pointers]
-  const filteredArray = s.toLowerCase().match(/[a-z0-9]/g);
+//   const filteredArray = s.toLowerCase().match(/[a-z0-9]/g);
     
     // Special Case
     if(s.length === 1 || !filteredArray) return true;
@@ -22,6 +24,8 @@
     }
     return true;
     
+
+
 // 3rd Method: [Using Two Stacks]
 
 const stack1 = new Stack();

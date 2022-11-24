@@ -34,6 +34,7 @@ var deleteDuplicates = function(head) {
 };
 
 
+
 // 2nd Method: If Sorted List 
 var deleteDuplicates = function(head) {
         let current = head;
