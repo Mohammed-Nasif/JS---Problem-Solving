@@ -1,1 +1,1 @@
-![ProblemBody](Subarray Sums.png)
+![ProblemBody](SubarraySums.png)
