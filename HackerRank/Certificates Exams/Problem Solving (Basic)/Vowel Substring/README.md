@@ -1,0 +1,1 @@
+![ProblemBody](VowelSubstring.png)
